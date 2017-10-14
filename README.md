@@ -1,3 +1,3 @@
 # KinectDiscreteGesture
 
-![Cover image](01.jpg)
+![Cover image](01.png)
